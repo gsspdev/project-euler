@@ -1,0 +1,1 @@
+a repo for code used to solve Project Euler math problems
